@@ -13,8 +13,8 @@ int main()
         string word2 = "";
         map<string,int> wordBank;
         map<int,vector<string> > frequencyBank;
-        ifstream inputFile("/home/sean/Desktop/my CS2 workplace/2600.txt");
-        ofstream outputFile("/home/sean/Desktop/my CS2 workplace/wpdata.txt");
+        ifstream inputFile("/home/sean/Desktop/my CS2 workplace/2600.txt"); //path of input file
+        ofstream outputFile("/home/sean/Desktop/my CS2 workplace/wpdata.txt"); //path of first export where strings are keys
         if (inputFile)
         {
             cout << "file loaded successsfully" << endl;
@@ -76,7 +76,7 @@ int main()
             outputFile << i->first << "\t\t\t" << i->second << endl;
         }
         outputFile.close();
-        ofstream secondoutputFile("/home/sean/Desktop/my CS2 workplace/wpqordfreq.txt");
+        ofstream secondoutputFile("/home/sean/Desktop/my CS2 workplace/wpqordfreq.txt"); //path of outfile where keys are integers
         secondoutputFile << "----------------------------------------" << endl;
         secondoutputFile << "Frequency Bank" << endl;
         int wordCount = 0;
