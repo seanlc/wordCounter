@@ -13,8 +13,8 @@ int main()
         string word2 = "";
         map<string,int> wordBank;
         map<int,vector<string> > frequencyBank;
-        ifstream inputFile("/home/sean/Desktop/my CS2 workplace/2600.txt"); //path of input file
-        ofstream outputFile("/home/sean/Desktop/my CS2 workplace/wpdata.txt"); //path of first export where strings are keys
+        ifstream inputFile("/home/sean/Desktop/my CS2 workplace/345.txt");
+        ofstream outputFile("/home/sean/Desktop/my CS2 workplace/draculadata.txt");
         if (inputFile)
         {
             cout << "file loaded successsfully" << endl;
@@ -76,23 +76,24 @@ int main()
             outputFile << i->first << "\t\t\t" << i->second << endl;
         }
         outputFile.close();
-        ofstream secondoutputFile("/home/sean/Desktop/my CS2 workplace/wpqordfreq.txt"); //path of outfile where keys are integers
+        ofstream secondoutputFile("/home/sean/Desktop/my CS2 workplace/draculawordfreq.txt");
         secondoutputFile << "----------------------------------------" << endl;
         secondoutputFile << "Frequency Bank" << endl;
         int wordCount = 0;
         for (map<int,vector<string> >::iterator n = frequencyBank.begin(); n != frequencyBank.end(); n++)
         {
             wordCount = 0;
-            secondoutputFile << n->first << "\t\t\t" ;
+            secondoutputFile << n->first << endl;
             for (int i = 0; i < n->second.size(); i++)
             {
                 secondoutputFile << n->second[i] << ", ";
-                wordCount++;
-                if (wordCount % 10 == 0){
+                if (i % 3 == 0)
+                {
                     secondoutputFile << endl;
                 }
+                wordCount++;
             }
-            secondoutputFile << endl;
+            secondoutputFile << endl << endl;
         }
 
         inputFile.close();
