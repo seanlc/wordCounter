@@ -68,7 +68,6 @@ int main()
         ofstream secondoutputFile("/home/sean/Desktop/my CS2 workplace/mobywordfreq.txt");   // create a new output file to be filled with the contents of the frequencyBank
         secondoutputFile << "----------------------------------------" << endl; // formatting for frequencyBank output file
         secondoutputFile << "Frequency Bank" << endl;
-        int wordCount = 0;
         for (map<int,vector<string> >::iterator n = frequencyBank.begin(); n != frequencyBank.end(); n++)
         {       // loop iterates through each entry in frequencyBank, starting at beginning and finishing at the end
             secondoutputFile << n->first << endl;   // write the integer key value to file
