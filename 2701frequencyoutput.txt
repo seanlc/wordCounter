@@ -3,687 +3,687 @@ Frequency Bank
 
 
 14237
-the, 
+the
 
 6552
-of, 
+of
 
 6325
-and, 
+and
 
 4593
-a, 
+a
 
 4571
-to, 
+to
 
 4108
-in, 
+in
 
 2915
-that, 
+that
 
 2485
-his, 
+his
 
 2354
-it, 
+it
 
 1930
-i, 
+i
 
 1768
-but, 
+but
 
 1735
-with, 
+with
 
 1730
-he, 
+he
 
 1708
-as, 
+as
 
 1695
-is, 
+is
 
 1619
-was, 
+was
 
 1599
-for, 
+for
 
 1482
-all, 
+all
 
 1394
-this, 
+this
 
 1308
-at, 
+at
 
 1188
-by, 
+by
 
 1142
-not, 
+not
 
 1086
-from, 
+from
 
 1043
-be, 
+be
 
 1039
-on, 
+on
 
 1035
-him, 
+him
 
 1031
-so, 
+so
 
 919
-you, 
+you
 
 893
-whale, 
+whale
 
 876
-one, 
+one
 
 765
-had, 
+had
 
 764
-or, 
+or
 
 759
-now, 
+now
 
 756
-have, there, 
+have, there
 
 
 674
-were, 
+were
 
 642
-they, 
+they
 
 624
-which, 
+which
 
 614
-then, 
+then
 
 606
-me, 
+me
 
 605
-some, 
+some
 
 604
-are, 
+are
 
 603
-their, 
+their
 
 592
-when, 
+when
 
 587
-an, 
+an
 
 584
-my, 
+my
 
 574
-no, 
+no
 
 567
-like, 
+like
 
 562
-upon, 
+upon
 
 538
-what, 
+what
 
 517
-into, 
+into
 
 510
-out, 
+out
 
 500
-more, 
+more
 
 499
-up, 
+up
 
 489
-if, 
+if
 
 463
-its, 
+its
 
 450
-them, 
+them
 
 438
-old, 
+old
 
 435
-we, 
+we
 
 433
-man, 
+man
 
 421
-would, 
+would
 
 417
-ahab, 
+ahab
 
 416
-ye, 
+ye
 
 408
-been, 
+been
 
 407
-other, 
+other
 
 397
-over, 
+over
 
 390
-these, 
+these
 
 384
-will, 
+will
 
 378
-ship, 
+ship
 
 371
-only, 
+only
 
 370
-such, 
+such
 
 363
-sea, whales, 
+sea, whales
 
 
 362
-though, 
+though
 
 358
-down, 
+down
 
 357
-any, 
+any
 
 339
-yet, 
+yet
 
 333
-who, 
+who
 
 321
-her, time, 
+her, time
 
 
 318
-very, 
+very
 
 314
-do, long, 
+do, long
 
 
 313
-about, 
+about
 
 307
-still, 
+still
 
 303
-those, 
+those
 
 302
-than, 
+than
 
 293
-before, 
+before
 
 292
-captain, 
+captain
 
 289
 great, has, 
 must, 
-said, 
+said
 
 284
-here, 
+here
 
 280
-seemed, 
+seemed
 
 278
-two, 
+two
 
 276
-most, 
+most
 
 273
-last, 
+last
 
 263
-head, 
+head
 
 262
-thou, 
+thou
 
 260
-see, 
+see
 
 259
-after, 
+after
 
 255
-way, 
+way
 
 251
-your, 
+your
 
 250
-again, 
+again
 
 249
-did, 
+did
 
 247
-little, white, 
+little, white
 
 
 244
-may, 
+may
 
 241
-boat, while, 
+boat, while
 
 
 239
-round, 
+round
 
 238
-how, 
+how
 
 235
-three, 
+three
 
 232
-sperm, 
+sperm
 
 229
-first, 
+first
 
 227
-stubb, 
+stubb
 
 225
-us, 
+us
 
 224
-men, through, 
+men, through
 
 
 223
-every, say, 
+every, say
 
 
 221
-well, 
+well
 
 219
-much, 
+much
 
 212
-could, 
+could
 
 211
-being, queequeg, 
+being, queequeg
 
 
 207
-same, 
+same
 
 206
-our, 
+our
 
 203
 off, own, 
-where, 
+where
 
 
 200
-can, never, 
+can, never
 
 
 199
-himself, 
+himself
 
 195
-good, 
+good
 
 194
-hand, 
+hand
 
 193
-almost, 
+almost
 
 188
-ever, 
+ever
 
 184
-even, 
+even
 
 183
-go, side, 
+go, side
 
 
 181
-thing, 
+thing
 
 180
-should, 
+should
 
 179
-might, 
+might
 
 178
-look, 
+look
 
 175
-boats, 
+boats
 
 174
-away, made, 
+away, made
 
 
 172
-chapter, too, 
+chapter, too
 
 
 171
-come, 
+come
 
 169
-starbuck, 
+starbuck
 
 163
-among, many, 
+among, many
 
 
 158
 deck, water, 
-without, 
+without
 
 
 157
-far, 
+far
 
 156
-day, seen, 
+day, seen
 
 
 154
-nor, 
+nor
 
 153
-eyes, 
+eyes
 
 152
-ships, 
+ships
 
 151
 part, sir, 
-sort, 
+sort
 
 
 150
-cried, 
+cried
 
 148
-back, 
+back
 
 147
-thought, world, 
+thought, world
 
 
 146
-know, 
+know
 
 145
-once, 
+once
 
 140
-right, 
+right
 
 137
-oh, whole, 
+oh, whole
 
 
 135
-aye, life, 
+aye, life
 
 
 133
 against, air, 
 crew, 
-thus, 
+thus
 
 131
-let, 
+let
 
 128
 each, night, 
 soon, 
-tell, thee, 
+tell, thee
 
 
 127
-things, 
+things
 
 126
-came, take, 
+came, take
 
 
 125
-hands, 
+hands
 
 124
-full, small, 
+full, small
 
 
 123
-feet, 
+feet
 
 122
-both, 
+both
 
 121
-pequod, 
+pequod
 
 119
 between, till, 
-under, 
+under
 
 
 118
-something, 
+something
 
 116
 found, just, 
 line, 
-think, 
+think
 
 115
-god, 
+god
 
 113
-thy, towards, 
+thy, towards
 
 
 112
-make, 
+make
 
 111
-she, 
+she
 
 110
 along, another, 
 dont, 
-times, 
+times
 
 109
-nothing, place, 
+nothing, place
 
 
 108
-called, whaling, 
+called, whaling
 
 
 107
-why, 
+why
 
 105
 body, heard, 
-poor, 
+poor
 
 
 104
-work, 
+work
 
 103
-sight, 
+sight
 
 99
-fish, moment, 
+fish, moment
 
 
 98
 end, high, 
-saw, 
+saw
 
 
 97
-went, 
+went
 
 96
 does, hold, 
-strange, 
+strange
 
 
 95
-flask, get, 
+flask, get
 
 
 94
 face, hes, 
-years, 
+years
 
 
 93
-few, 
+few
 
 92
-voyage, 
+voyage
 
 91
-because, shall, 
+because, shall
 
 
 90
 also, certain, 
 dead, 
-stood, 
+stood
 
 89
-however, stand, 
+however, stand
 
 
 88
-half, indeed, 
+half, indeed
 
 
 87
-black, nantucket, 
+black, nantucket
 
 
 86
 am, days, 
 leg, 
-perhaps, project, 
+perhaps, project
 
 
 85
 going, new, 
 seems, 
-whether, 
+whether
 
 84
 give, seas, 
 sometimes, 
-whose, 
+whose
 
 83
 itself, seem, 
-sun, 
+sun
 
 
 82
 matter, standing, 
-wild, 
+wild
 
 
 81
-heart, true, 
+heart, true
 
 
 80
 always, eye, 
 hard, 
-moby, set, 
+moby, set
 
 
 79
 arm, present, 
-young, 
+young
 
 
 78
 ere, sail, 
 soul, 
-within, 
+within
 
 77
-dick, leviathan, 
+dick, leviathan
 
 
 76
 ill, known, 
 mind, 
-sailor, 
+sailor
 
 75
 ahabs, beneath, 
 death, 
 iron, light, 
-oil, 
+oil
 
 
 74
@@ -691,95 +691,95 @@ cabin, done,
 enough, 
 large, lay, 
 length, 
-tail, 
+tail
 
 73
 harpooneer, instant, 
-thats, 
+thats
 
 
 72
 cannot, land, 
 least, 
 morning, often, 
-put, 
+put
 
 
 71
 bed, bildad, 
-word, 
+word
 
 
 70
 general, harpoon, 
-living, 
+living
 
 
 69
-case, peleg, 
+case, peleg
 
 
 68
 jonah, rather, 
-vast, 
+vast
 
 
 67
 business, keep, 
-name, 
+name
 
 
 66
 open, point, 
 turned, 
-waters, whalemen, 
+waters, whalemen
 
 
 65
 four, left, 
 therefore, 
-yes, 
+yes
 
 64
 best, having, 
 looked, 
 near, pip, 
-wind, 
+wind
 
 
 63
 deep, myself, 
-reason, 
+reason
 
 
 62
 better, further, 
 hear, 
-lower, since, 
+lower, since
 
 
 61
-order, together, 
+order, together
 
 
 60
 board, fire, 
 lord, 
-second, turn, 
+second, turn
 
 
 59
 fishery, live, 
 mate, 
-theres, 
+theres
 
 58
-forth, themselves, 
+forth, themselves
 
 
 57
 fine, harpooneers, 
-ocean, 
+ocean
 
 
 56
@@ -787,10 +787,10 @@ book, chase,
 feel, 
 gutenbergtm, looking, 
 mr, 
-next, 
+next
 
 55
-dark, peculiar, 
+dark, peculiar
 
 
 54
@@ -798,19 +798,19 @@ above, aloft,
 call, 
 curious, entire, 
 home, 
-sailors, short, 
+sailors, short
 
 
 53
 began, find, 
 goes, 
-mouth, 
+mouth
 
 52
 below, broad, 
 comes, 
 gone, grand, 
-others, 
+others
 
 
 51
@@ -822,13 +822,13 @@ mates, particular,
 rest, 
 run, sharks, 
 slowly, 
-tashtego, used, 
+tashtego, used
 
 
 50
 indian, ivory, 
 mark, 
-nevertheless, turning, 
+nevertheless, turning
 
 
 49
@@ -838,28 +838,28 @@ hundred, pequods,
 suddenly, 
 taken, taking, 
 thousand, 
-took, 
+took
 
 48
 besides, bows, 
 common, 
 cook, savage, 
 stern, 
-story, whats, 
+story, whats
 
 
 47
 behind, green, 
 kept, 
 means, several, 
-speak, 
+speak
 
 
 46
 broken, else, 
 form, 
 got, lost, 
-waves, 
+waves
 
 
 45
@@ -873,14 +873,14 @@ teeth, ten,
 use, 
 view, voice, 
 watch, 
-whatever, 
+whatever
 
 44
 especially, heads, 
 room, 
 running, sat, 
 spout, 
-sure, touching, 
+sure, touching
 
 
 43
@@ -890,7 +890,7 @@ rolled, says,
 somehow, 
 straight, sudden, 
 wide, 
-works, 
+works
 
 42
 blue, caught, 
@@ -901,7 +901,7 @@ nigh, noble,
 passed, 
 seamen, stranger, 
 told, 
-whom, wondrous, 
+whom, wondrous
 
 
 41
@@ -913,7 +913,7 @@ parts, pull,
 purpose, 
 quite, sound, 
 surface, 
-vessel, 
+vessel
 
 40
 brow, course, 
@@ -922,7 +922,7 @@ em, gods,
 help, 
 lance, mine, 
 rope, 
-saying, wont, 
+saying, wont
 
 
 39
@@ -934,7 +934,7 @@ makes, mere,
 mortal, 
 plain, queer, 
 various, 
-wake, 
+wake
 
 38
 calm, creature, 
@@ -945,7 +945,7 @@ monster, nature,
 oars, 
 plainly, power, 
 sailed, 
-sharp, single, 
+sharp, single
 
 
 37
@@ -959,7 +959,7 @@ human, mass,
 mean, 
 object, quick, 
 ready, 
-suppose, 
+suppose
 
 36
 bear, brought, 
@@ -975,7 +975,7 @@ placed,
 previous, seeing, 
 steelkilt, 
 truth, unknown, 
-whaleman, 
+whaleman
 
 
 35
@@ -986,7 +986,7 @@ fell,
 holding, hope, 
 leaving, 
 middle, nearly, 
-turns, 
+turns
 
 
 34
@@ -998,7 +998,7 @@ red, sailing,
 sign, 
 start, strong, 
 thoughts, 
-wonder, 
+wonder
 
 33
 already, american, 
@@ -1012,7 +1012,7 @@ sails,
 shot, skeleton, 
 skin, 
 stop, top, 
-want, 
+want
 
 
 32
@@ -1026,7 +1026,7 @@ pacific, pipe,
 planks, 
 proper, rigging, 
 show, 
-unless, 
+unless
 
 31
 across, bulk, 
@@ -1046,7 +1046,7 @@ rising,
 table, terms, 
 third, 
 visible, weather, 
-woe, 
+woe
 
 
 30
@@ -1066,7 +1066,7 @@ sky, soft,
 species, 
 strike, substance, 
 try, 
-upper, wood, 
+upper, wood
 
 
 29
@@ -1086,7 +1086,7 @@ stands, steel,
 strangely, 
 suspended, tossed, 
 vain, 
-vessels, words, 
+vessels, words
 
 
 28
@@ -1104,7 +1104,7 @@ mild, o,
 pretty, 
 shipmates, supper, 
 swimming, 
-thinking, touch, 
+thinking, touch
 
 
 27
@@ -1120,7 +1120,7 @@ knows, miles,
 number, 
 queequegs, spring, 
 steady, 
-wholly, wooden, 
+wholly, wooden
 
 
 26
@@ -1143,7 +1143,7 @@ somewhat,
 started, state, 
 stubbs, 
 sweet, takes, 
-yourself, 
+yourself
 
 
 25
@@ -1166,7 +1166,7 @@ similar,
 souls, spread, 
 talk, 
 thick, thirty, 
-whiteness, 
+whiteness
 
 
 24
@@ -1194,7 +1194,7 @@ strength, swift,
 thyself, 
 twenty, wall, 
 watery, 
-whaleboat, worlds, 
+whaleboat, worlds
 
 
 23
@@ -1222,7 +1222,7 @@ st, storm,
 tall, 
 tis, warm, 
 whaleship, 
-yards, 
+yards
 
 22
 attached, battle, 
@@ -1244,7 +1244,7 @@ port,
 pursuit, sink, 
 terrible, 
 thrown, thunder, 
-wonderful, 
+wonderful
 
 
 21
@@ -1278,7 +1278,7 @@ terrors, thinks,
 truly, 
 ways, windlass, 
 winds, 
-windward, year, 
+windward, year
 
 
 20
@@ -1314,7 +1314,7 @@ slightest, somewhere,
 son, 
 south, striking, 
 swung, 
-terror, virtue, 
+terror, virtue
 
 
 19
@@ -1351,7 +1351,7 @@ upwards,
 whaler, whalers, 
 wife, 
 wise, worse, 
-yellow, 
+yellow
 
 
 18
@@ -1399,7 +1399,7 @@ swim, telling,
 thereby, 
 tree, tryworks, 
 understand, 
-vicinity, yonder, 
+vicinity, yonder
 
 
 17
@@ -1437,7 +1437,7 @@ thine, thrust,
 tomahawk, 
 trunk, trying, 
 whence, 
-whereas, 
+whereas
 
 16
 actually, additional, 
@@ -1487,7 +1487,7 @@ unaccountable,
 uncommon, watching, 
 weight, 
 west, whenever, 
-whos, 
+whos
 
 
 15
@@ -1566,7 +1566,7 @@ violent,
 weary, whalebone, 
 working, 
 wound, wrinkled, 
-yield, 
+yield
 
 
 14
@@ -1640,7 +1640,7 @@ unseen, window,
 wish, 
 worth, wrinkles, 
 written, 
-yea, yojo, 
+yea, yojo
 
 
 13
@@ -1713,7 +1713,7 @@ tiller,
 token, tore, 
 towing, 
 volume, voyages, 
-wherefore, 
+wherefore
 
 
 12
@@ -1817,7 +1817,7 @@ usage, utterly,
 vapour, 
 vengeance, visit, 
 whaleships, 
-wonders, wreck, 
+wonders, wreck
 
 
 11
@@ -1929,7 +1929,7 @@ waist, warp,
 welded, 
 wet, wharf, 
 whispered, 
-wicked, wore, 
+wicked, wore
 
 
 10
@@ -2049,7 +2049,7 @@ venerable, vital,
 walls, 
 wanting, wave, 
 wine, 
-woods, 
+woods
 
 9
 able, accounted, 
@@ -2216,7 +2216,7 @@ women, worn,
 worship, 
 wrapped, yesterday, 
 yon, 
-yours, youth, 
+yours, youth
 
 
 8
@@ -2420,7 +2420,7 @@ worked, worthy,
 wouldnt, 
 wrecked, wretched, 
 wrong, 
-youll, 
+youll
 
 7
 3, abandoned, 
@@ -2660,7 +2660,7 @@ wings,
 woof, woollen, 
 wounded, 
 woven, yourselves, 
-zealand, 
+zealand
 
 
 6
@@ -2978,7 +2978,7 @@ wrenched, wrist,
 wrists, 
 wrought, yard, 
 yelled, 
-youre, 
+youre
 
 5
 1e1, absence, 
@@ -3413,7 +3413,7 @@ wouldst, writing,
 yarman, 
 yell, york, 
 zodiac, 
-zone, 
+zone
 
 4
 1, 1e8, 
@@ -4032,7 +4032,7 @@ wondering, wrecks,
 wrest, 
 wriggling, write, 
 yarn, 
-yarns, yoked, 
+yarns, yoked
 
 
 3
@@ -5115,7 +5115,7 @@ yelling,
 yeve, yielding, 
 yields, 
 yoke, youd, 
-zones, 
+zones
 
 
 2
@@ -7153,6 +7153,6 @@ yojos, yore,
 younger, 
 youthful, youyou, 
 zeal, 
-zoned, zoology, 
+zoned, zoology
 
 

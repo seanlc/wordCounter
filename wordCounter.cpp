@@ -34,7 +34,11 @@ bool wordCounter::writeOutputFile()
             vectorSize = i->second.size();
             for (int n = 0; n < vectorSize; n++)
             {
-                outputFile << i->second[n] << ", ";
+                outputFile << i->second[n];
+                if(n != (vectorSize - 1))
+                {
+                    outputFile << ", ";
+                }
                 if (n % 3)
                 {
                     outputFile << endl;
