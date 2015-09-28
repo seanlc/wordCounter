@@ -23,6 +23,10 @@ bool wordCounter::writeOutputFile()
         }
 
         outputFile << endl << endl << endl;
+
+        outputFile.close();
+        outputFile.open("C:/Users/Sandy/Desktop/Data Structures/2701frequencyoutput.txt");
+
         outputFile << "Frequency Bank" << endl;
         for (map<int,vector<string> >::iterator i = frequencyCollection.end(); i != frequencyCollection.begin(); i--)
         {
@@ -38,6 +42,7 @@ bool wordCounter::writeOutputFile()
             }
             outputFile << endl << endl;
         }
+
         return true;
     }
     cout << "There was an error opening the output file" << endl;
