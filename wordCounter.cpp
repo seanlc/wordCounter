@@ -32,15 +32,16 @@ bool wordCounter::writeOutputFile()
     int vectorSize;
     if (outputFile)
     {
-        outputFile << "Word \t\t frequency" << endl;
+        outputFile << "Word \t\t frequency" << endl;        /// formatting for wordCollection file listing
         for (map<string, int>::iterator i = wordCollection.begin(); i != wordCollection.end(); i++)
         {
+            /// list every entry in wordCollection along with the frequency
             outputFile << i->first << "\t\t\t" << i->second << endl;
         }
-
+        /// close first output file and open second that will be used to store frequencyCollection
         outputFile.close();
         outputFile.open("C:/Users/Sandy/Desktop/Data Structures/2701frequencyoutput.txt");
-
+        /// formatting for frequencyCollection file listing
         outputFile << "Frequency Bank" << endl;
         for (map<int,vector<string> >::iterator i = frequencyCollection.end(); i != frequencyCollection.begin(); i--)
         {
@@ -48,18 +49,20 @@ bool wordCounter::writeOutputFile()
             {
                 i++;    /// skip last entry since it contains garbage instead of a valid entry
             }
+            /// write frequency
             outputFile << i->first << endl;
             vectorSize = i->second.size();
+            /// loop through the string vector and write each string associated with current frequency
             for (int n = 0; n < vectorSize; n++)
             {
                 outputFile << i->second[n];
                 if(n != (vectorSize - 1))
                 {
-                    outputFile << ", ";
+                    outputFile << ", ";     /// add comma if string is not last element in vector
                 }
                 if ( ((n+1) % 5 == 0) and n != (vectorSize - 1))
                 {
-                    outputFile << endl;
+                    outputFile << endl;     /// formatting to make results more readable
                 }
             }
             outputFile << endl << endl;
@@ -84,29 +87,29 @@ bool wordCounter::fillWordCollection()
     int wordLength;
     if (inputFile)
     {
-        while (!inputFile.eof())
+        while (!inputFile.eof())    /// while end of the file has not been reached
         {
-            inputFile >> rawWord;
+            inputFile >> rawWord;   /// take one word at time into rawWord string
             wordLength = rawWord.length();
             for (int i = 0; i < wordLength; i++)
             {
-                rawWord[i] = tolower(rawWord[i]);
+                rawWord[i] = tolower(rawWord[i]);       /// convert word to lowercase
                 if(!ispunct(rawWord[i]))
                 {
-                    formattedWord.push_back(rawWord[i]);
+                    formattedWord.push_back(rawWord[i]);    /// push non-punctuation character onto formattedWord string
                 }
             }
             if (wordCollection.find(formattedWord) != wordCollection.end() )
             {
-                wordCollection[formattedWord]++;
+                wordCollection[formattedWord]++;        /// increment value associated with word if word is already in wordCollection
             }
             else
             {
-                wordCollection[formattedWord] = 1;
+                wordCollection[formattedWord] = 1;      /// create a new entry if word is not already in collection
             }
-            formattedWord = "";
+            formattedWord = "";         /// reset formatted word to empty string for next iteration of loop
         }
-        fillFreqCollection();
+        fillFreqCollection();           /// fill frequencyCollection using the data stored in wordCollection
         return true;
     }
     cout << "Error opening inputFile" << endl;
@@ -123,14 +126,18 @@ void wordCounter::fillFreqCollection()
     int frequency;
     for (map<string,int>::iterator i = wordCollection.begin(); i != wordCollection.end(); i++)
     {
+        /// set word and frequency variables to appropriate values based on entry pointed to by i in wordCollection
         word = i->first;
         frequency = i->second;
         if (frequencyCollection.find(frequency) != frequencyCollection.end())
         {
             frequencyCollection[frequency].push_back(word);
+            /// if frequency is already present, add the word to the string vector associated with it
         }
         else
         {
+            /// if frequency is not present, create a new string vector, add the word to the vector and create
+            /// an entry in frequencyCollection with the frequency as the key and the string vector as the value
             vector<string> words;
             words.push_back(word);
             frequencyCollection[frequency] = words;
